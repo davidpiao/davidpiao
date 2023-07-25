@@ -1,6 +1,4 @@
-## Hi there 👋
-<h2> 💻 Projects </h2>
-- 
+<!--
 <h2> 👩🏻‍💻 TechStacks </h2>
 
 <div align=center> 
@@ -25,10 +23,8 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <br/>
-  
-![davidpiao's Stats](https://github-readme-stats.vercel.app/api?username=davidpiao&theme=default&show_icons=true&hide_border=true&count_private=true)
-![davidpiao's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpiao&theme=default&show_icons=true&hide_border=true&layout=compact)
-
+<br>
+-->
 <!--
 **davidpiao/davidpiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
